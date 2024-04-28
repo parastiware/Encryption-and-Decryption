@@ -1,0 +1,30 @@
+What is the Caesar Cipher?
+A) A substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+B) A cipher that uses a random key to encrypt messages.
+C) A cipher that rearranges the letters of the plaintext according to a key.
+D) A cipher that encrypts each letter using a different substitution alphabet.
+In Caesar Cipher encryption, what is the key?
+A) The encrypted message.
+B) The alphabet.
+C) The number of positions each letter is shifted.
+D) The original plaintext.
+If the Caesar Cipher has a shift of 3, what would "HELLO" encrypt to?
+A) "KHOOR"
+B) "HOLLE"
+C) "EBIIL"
+D) "HELLO"
+What is the decryption process in Caesar Cipher?
+A) Shifting each letter of the ciphertext to the left.
+B) Shifting each letter of the ciphertext to the right.
+C) Using a different key to encrypt the ciphertext.
+D) Shifting each letter of the ciphertext by the same amount as the encryption but in the opposite direction.
+In Caesar Cipher, if the shift is 5 and you decrypt the message "MJQQT" what is the original plaintext?
+A) "HELLO"
+B) "GOODBYE"
+C) "ENCRYPT"
+D) "MESSAGE"
+What is a weakness of the Caesar Cipher?
+A) It is too complex to implement.
+B) It requires a computer to encrypt and decrypt messages.
+C) It is vulnerable to brute-force attacks because of its small key space.
+D) It can only encrypt letters and not numbers or special characters.
